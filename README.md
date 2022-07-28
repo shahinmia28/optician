@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Getting Started with Create React App
 
-`npx Create React App`
+### `npx Create React App`
 
 ## Available Scripts
 
