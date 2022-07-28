@@ -1,0 +1,12 @@
+.addProduct {
+  margin-top: 70px;
+
+  form {
+    button {
+      &:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+    }
+  }
+}

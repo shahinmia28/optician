@@ -1,0 +1,36 @@
+.card-items {
+  .card {
+    cursor: pointer;
+    margin: 10px;
+    a {
+      text-decoration: none;
+      color: #0c342d;
+      .img-holder {
+        width: 100%;
+        height: 150px;
+        .card-img-top {
+          width: 100%;
+          height: 150px;
+        }
+      }
+      .card-body {
+        .card-text {
+          font-size: 13px;
+        }
+        .sale-price {
+          color: #ff2b55;
+        }
+        .regular-price {
+          font-size: 14px;
+          color: #888;
+          .price {
+            text-decoration: line-through;
+          }
+        }
+      }
+    }
+    &:hover {
+      box-shadow: 0 0 10px -5px #333;
+    }
+  }
+}

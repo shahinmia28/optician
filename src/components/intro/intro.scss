@@ -1,0 +1,17 @@
+.intro {
+  width: 100%;
+  margin-top: 70px;
+  .wrapper {
+    .left {
+      padding: 0;
+      height: 300px;
+    }
+    .right {
+      height: 300px;
+      padding: 0;
+    }
+  }
+  .products {
+    background: #eff0f5;
+  }
+}
