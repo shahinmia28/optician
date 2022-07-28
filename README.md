@@ -1,5 +1,8 @@
-## Getting Started with Create React App
+## Getting Starte
 
+
+
+## First commant for creating react project 
 ### `npx Create React App`
 
 ## Available Scripts
